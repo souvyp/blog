@@ -1,4 +1,5 @@
 // docs/.vitepress/config.js
+const base = "/souvyp/"
 export default {
   // 站点级选项
   title: "是柠新呀的博客", // 网站标题
