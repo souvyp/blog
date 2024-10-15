@@ -2,7 +2,7 @@
     layout: home
 
     hero:
-      name: 是柠新呀的博客
+      name: 是柠新呀的博客11111111111
       text: awesome-front-end-world.
       tagline: 前端 知识体系地图
       image:
