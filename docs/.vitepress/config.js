@@ -4,8 +4,8 @@ const base = "/blog/";
 export default {
   base,
   // 站点级选项
-  title: "是柠新呀的博客",
-  description: "是柠新呀用来写博客的地方",
+  title: "millet的博客",
+  description: "是millet用来写博客的地方",
   head: [
     // 配置网站的图标（显示在浏览器的 tab 上）
     ["link", { rel: "icon", href: `${base}favicon.ico` }],

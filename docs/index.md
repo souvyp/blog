@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: 是柠新呀的博客
+  name: millet的博客
   text: awesome-front-end-world.
   tagline: 前端 知识体系地图
   image:
@@ -14,7 +14,7 @@ hero:
       link: /bigFrontEnd/html/
     - theme: alt
       text: View on GitHub
-      link: https://github.com/xuxing409/blog-demo
+      link: https://souvyp.github.io/blog
 ---
 
 <style>
