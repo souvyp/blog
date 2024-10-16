@@ -4,7 +4,7 @@ const base = "/blog/";
 export default {
   base,
   // 站点级选项
-  title: "millet的博客",
+  title: "millet的博客111",
   description: "是millet用来写博客的地方",
   head: [
     // 配置网站的图标（显示在浏览器的 tab 上）
