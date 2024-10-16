@@ -16,7 +16,7 @@ hero:
       text: View on GitHub
       link: https://github.com/xuxing409/blog-demo
 ---
-2222222
+ millet的博客
 <style>
 :root {
   --vp-home-hero-name-color: transparent;
