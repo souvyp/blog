@@ -2,7 +2,7 @@
 layout: home
 
 hero:
-  name: millet的博客
+  name: 是柠新呀的博客
   text: awesome-front-end-world.
   tagline: 前端 知识体系地图
   image:
@@ -16,7 +16,7 @@ hero:
       text: View on GitHub
       link: https://github.com/xuxing409/blog-demo
 ---
- millet的博客
+
 <style>
 :root {
   --vp-home-hero-name-color: transparent;

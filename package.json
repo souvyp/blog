@@ -1,5 +1,5 @@
 {
-  "name": "st-blog",
+  "name": "my-blog",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,17 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "vitepress": "^1.4.1"
+  "devDependencies": {
+    "@algolia/client-search": ">=4.9.1 <6.0.0",
+    "search-insights": ">=1.0.0 <3.0.0",
+    "vitepress": "^1.2.3"
+  },
+  "pnpm": {
+    "peerDependencyRules": {
+      "ignoreMissing": [
+        "@algolia/client-search",
+        "search-insights"
+      ]
+    }
   }
 }
