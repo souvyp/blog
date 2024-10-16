@@ -12,8 +12,8 @@ export default {
   ],
   themeConfig: {
     docFooter: {
-      prev: "上一页",
-      next: "下一页",
+      prev: "上一页1",
+      next: "下一页1",
     },
     nav: [
       {
