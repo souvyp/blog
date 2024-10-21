@@ -22,7 +22,8 @@ export default {
           { text: "html", link: "/bigFrontEnd/html/" },
           { text: "css", link: "/bigFrontEnd/css/" },
           { text: "js", link: "/bigFrontEnd/js/" },
-           { text: "vue", link: "/bigFrontEnd/vue/" },
+          { text: "vue", link: "/bigFrontEnd/vue/" },
+            { text: "vsCode", link: "/bigFrontEnd/vsCode/" },
         ],
       },
       { text: "关于", link: "/about" },
@@ -55,6 +56,12 @@ export default {
         items: [
           { text: "vue1", link: "/bigFrontEnd/vue/vue1" },
           { text: "vue2", link: "/bigFrontEnd/vue/vue2" },
+        ],
+      },
+      "/bigFrontEnd/vsCode/": {
+        text: "vsCode",
+        items: [
+          { text: "vscode1", link: "/bigFrontEnd/vsCode/vscode1" },
         ],
       },
     },
